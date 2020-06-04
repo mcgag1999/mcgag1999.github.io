@@ -13,14 +13,10 @@
   }
 
   body {
-    /* set the background color here */
-    /* set the text color to black here */
-    /* set the font here */
-    /* set the text alignment here */
-    background-color: LightGray;
-    color: black;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
+    background-color: LightGray;/* set the background color here */
+    color: black;/* set the text color to black here */
+    font-family: Arial, Helvetica, sans-serif;/* set the font here */
+    text-align: center;/* set the text alignment here */     
    }
 
   footer {
@@ -38,7 +34,7 @@
     /* set both the bottom margin and top margin to 2.5rem here */
     margin-bottom: 2.5rem;
     margin-top: 2.5rem;
-    color: #075AAB;
+    /*color: #075AAB;*/
 
    }
 
@@ -66,4 +62,7 @@
     display: table;
     margin: 0 auto;
     text-align: left;
+  }
+  .a {
+	  color: #075AAB;
   }
